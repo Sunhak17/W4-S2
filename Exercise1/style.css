@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10em;
+    margin-right: 10em;
+    background-color: pink;
+}
+.container{
+    background-color: gray;
+    height: 100vh;
+}
+.head{
+    justify-content: flex-start;
+    height: 100px;
+}
+.Main{
+    justify-content: flex-start;
+    height: 200px;
+}
+.Footer{
+    justify-content: flex-start;
+    
+} 
+.spacing{
+    height: 1em;
+    background-color: rgb(158, 248, 31);
+}

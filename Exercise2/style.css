@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    background-color: #25384B;
+    height: 100vh;
+} 
+.main .left-section{
+    background: #A3CFCC;
+    width: 100%;
+    margin-left: 3em; 
+    
+}
+
+.main .right-section{
+    background: #F7CFB6;
+    width: 70vh;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.main .right-section .item{
+    background-color: #86C2DE;
+    height: 25vh;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em; 
+}
